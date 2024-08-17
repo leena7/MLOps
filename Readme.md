@@ -1,2 +1,1 @@
-# MLOps
-# MLOps
+Learning ML Ops projectsgit re
